@@ -1,0 +1,230 @@
+{
+  "DSA": {
+    "Arrays": [
+      "Two Pointer",
+      "Sliding Window",
+      "Prefix Sum",
+      "Kadane Algorithm"
+    ],
+    "Linked Lists": [
+      "Singly Linked List",
+      "Doubly Linked List",
+      "Cycle Detection",
+      "Merge Linked Lists"
+    ],
+    "Stacks": [
+      "Expression Evaluation",
+      "Monotonic Stack",
+      "Parentheses Matching",
+      "Next Greater Element"
+    ],
+    "Queues": [
+      "Circular Queue",
+      "Priority Queue",
+      "Deque",
+      "Queue Using Stacks"
+    ],
+    "Trees": [
+      "Binary Tree Traversal",
+      "Binary Search Tree",
+      "Lowest Common Ancestor",
+      "Tree Height"
+    ],
+    "Graphs": [
+      "BFS",
+      "DFS",
+      "Shortest Path",
+      "Minimum Spanning Tree"
+    ],
+    "Dynamic Programming": [
+      "Memoization",
+      "Tabulation",
+      "Knapsack",
+      "Longest Common Subsequence"
+    ]
+  },
+  "Machine Learning": {
+    "Supervised Learning": [
+      "Linear Regression",
+      "Logistic Regression",
+      "Decision Tree",
+      "Support Vector Machine"
+    ],
+    "Unsupervised Learning": [
+      "K-Means Clustering",
+      "Hierarchical Clustering",
+      "DBSCAN",
+      "Dimensionality Reduction"
+    ],
+    "Model Evaluation": [
+      "Confusion Matrix",
+      "Precision Recall",
+      "F1 Score",
+      "ROC AUC"
+    ],
+    "Feature Engineering": [
+      "Feature Scaling",
+      "One Hot Encoding",
+      "Feature Selection",
+      "PCA"
+    ],
+    "Ensemble Learning": [
+      "Random Forest",
+      "AdaBoost",
+      "Gradient Boosting",
+      "XGBoost"
+    ],
+    "Neural Networks": [
+      "Perceptron",
+      "Backpropagation",
+      "Activation Functions",
+      "Loss Functions"
+    ]
+  },
+  "DBMS": {
+    "Relational Model": [
+      "Tables",
+      "Keys",
+      "Relationships",
+      "Constraints"
+    ],
+    "SQL Queries": [
+      "SELECT Queries",
+      "JOIN Operations",
+      "Nested Queries",
+      "Aggregate Functions"
+    ],
+    "Normalization": [
+      "First Normal Form",
+      "Second Normal Form",
+      "Third Normal Form",
+      "BCNF"
+    ],
+    "Transactions": [
+      "ACID Properties",
+      "Concurrency Control",
+      "Serializability",
+      "Deadlock Handling"
+    ],
+    "Indexing": [
+      "Primary Index",
+      "Secondary Index",
+      "B-Tree Index",
+      "Hash Index"
+    ],
+    "Database Security": [
+      "Authentication",
+      "Authorization",
+      "SQL Injection Prevention",
+      "Role Based Access"
+    ]
+  },
+  "Operating Systems": {
+    "Process Management": [
+      "Process States",
+      "Process Control Block",
+      "Context Switching",
+      "Inter Process Communication"
+    ],
+    "CPU Scheduling": [
+      "FCFS",
+      "SJF",
+      "Round Robin",
+      "Priority Scheduling"
+    ],
+    "Memory Management": [
+      "Paging",
+      "Segmentation",
+      "Virtual Memory",
+      "Page Replacement"
+    ],
+    "File Systems": [
+      "File Allocation",
+      "Directory Structure",
+      "File Permissions",
+      "Disk Scheduling"
+    ],
+    "Synchronization": [
+      "Critical Section",
+      "Semaphores",
+      "Mutex",
+      "Deadlock Prevention"
+    ],
+    "System Calls": [
+      "Process System Calls",
+      "File System Calls",
+      "Device System Calls",
+      "Information System Calls"
+    ]
+  },
+  "Computer Networks": {
+    "Network Models": [
+      "OSI Model",
+      "TCP IP Model",
+      "Protocol Layering",
+      "Encapsulation"
+    ],
+    "Data Link Layer": [
+      "Error Detection",
+      "Flow Control",
+      "MAC Addressing",
+      "Ethernet"
+    ],
+    "Network Layer": [
+      "IP Addressing",
+      "Subnetting",
+      "Routing Algorithms",
+      "ICMP"
+    ],
+    "Transport Layer": [
+      "TCP",
+      "UDP",
+      "Flow Control",
+      "Congestion Control"
+    ],
+    "Application Layer": [
+      "HTTP",
+      "DNS",
+      "SMTP",
+      "FTP"
+    ],
+    "Network Security": [
+      "Firewalls",
+      "Encryption",
+      "SSL TLS",
+      "Intrusion Detection"
+    ]
+  },
+  "Generic": {
+    "Programming Fundamentals": [
+      "Variables",
+      "Control Flow",
+      "Functions",
+      "Error Handling"
+    ],
+    "Problem Solving": [
+      "Input Analysis",
+      "Algorithm Design",
+      "Dry Run",
+      "Complexity Estimation"
+    ],
+    "Software Concepts": [
+      "Modularity",
+      "Reusability",
+      "Testing",
+      "Debugging"
+    ],
+    "Technical Communication": [
+      "Code Explanation",
+      "Documentation",
+      "Requirement Analysis",
+      "Result Interpretation"
+    ],
+    "Logical Reasoning": [
+      "Pattern Recognition",
+      "Cause Effect",
+      "Decision Making",
+      "Stepwise Reasoning"
+    ]
+  }
+}
